@@ -1,0 +1,6 @@
+{
+  "name": "Mobile Money Fraud Pattern Visualiser",
+  "description": "An interactive tool to generate synthetic mobile money transaction networks with injected fraud patterns and run custom graph algorithms to detect and visualize them.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
